@@ -3,6 +3,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shubhanshusahu931/shubhanshusahu931/main/Banner.png" />
+</p>
+
+---
+
 ### 🧑‍💻 About Me:
 - 🌱 I’m currently learning **Python, Web Development & DSA**
 - 💬 Ask me about **Python, C++, SQL, HTML/CSS**
@@ -54,8 +60,5 @@ LinkedIn: https://www.linkedin.com/in/shubhanshu-sahu/
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shubhanshusahu931/shubhanshusahu931/main/Banner.png" />
-</p>
 
 
