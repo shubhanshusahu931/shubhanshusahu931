@@ -36,7 +36,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhanshusahu931&show_icons=true&theme=tokyonight" height="150"/>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshusahu931&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
@@ -44,7 +43,7 @@
 ### 💡 LeetCode Stats:
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Shubhsahu01?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/shubhsahu01?theme=dark&font=Karma&ext=contest" />
 </p>
 
 
