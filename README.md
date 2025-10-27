@@ -40,6 +40,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshusahu931&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
+
+<h2 align="center">💡 LeetCode Stats</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shubhsahu01?theme=dark&font=Karma&ext=contest" />
+</p>
+
+
 ---
 
 ### 🔗 Connect With Me:
