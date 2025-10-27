@@ -41,10 +41,10 @@
 </p>
 
 
-<h2 align="center">💡 LeetCode Stats</h2>
+### 💡 LeetCode Stats:
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/shubhsahu01?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/Shubhsahu01?theme=dark&font=Karma&ext=contest" />
 </p>
 
 
