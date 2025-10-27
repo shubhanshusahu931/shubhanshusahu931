@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Python, Web Development & DSA**
 - 💬 Ask me about **Python, C++, SQL, HTML/CSS**
 - 🎯 Goal: Become a **Backend + Data Engineer**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **shubhsahu931@gmail.com**
 
 ---
 
@@ -24,8 +24,8 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhanshusahu931&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshusahu931&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
