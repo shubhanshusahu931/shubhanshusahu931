@@ -3,9 +3,9 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/shubhanshusahu931/shubhanshusahu931/main/Banner.png" />
-</p>
+</p> -->
 
 ---
 
