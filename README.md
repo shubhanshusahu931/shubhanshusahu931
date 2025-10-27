@@ -11,8 +11,8 @@
 
 ### 🧑‍💻 About Me:
 - 🌱 I’m currently learning **Python, Web Development & DSA**
-- 💬 Ask me about **Python, C++, SQL, HTML/CSS**
-- 🎯 Goal: Become a **Backend + Data Engineer**
+- 💬 Known about **Python, C++, SQL, HTML/CSS**
+- 🎯 Goal: Become a **Frontend + AI Engineer**
 - 📫 How to reach me: **shubhsahu931@gmail.com**
 
 ---
