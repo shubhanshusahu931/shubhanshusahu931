@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Shubhanshu Sahu</h1>
-<h3 align="center">A passionate Python & Web Development Learner from India 🇮🇳</h3>
+<h3 align="center">A passionate Python & AI-ML Learner from India 🇮🇳</h3>
 
 ---
 
