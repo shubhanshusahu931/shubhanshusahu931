@@ -10,7 +10,7 @@
 ---
 
 ### 🧑‍💻 About Me:
-- 🌱 I’m currently learning **Python, Web Development & DSA**
+- 🌱 I’m currently learning **Python,AI/ML, Web Development & DSA**
 - 💬 Known about **Python, C++, SQL, HTML/CSS**
 - 🎯 Goal: Become a **Frontend + AI Engineer**
 - 📫 How to reach me: **shubhsahu931@gmail.com**
